@@ -1,8 +1,8 @@
-.p {
+p {
     background-color: pink;
     font-family: Verdana, "DejaVU Sans" ,sans-serif;
 }
-.div#blue{
+div#blue{
     color: blue;
     font-size: 36px;
 }
